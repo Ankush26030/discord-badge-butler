@@ -1,0 +1,6 @@
+# Runtime dependencies for the optional butler bot.
+# The games.py / stream.py scripts themselves stay standard-library only.
+discord.py>=2.4.0
+
+# Optional: enables /viewer join (voice). Uncomment if you need it.
+# PyNaCl>=1.5.0
