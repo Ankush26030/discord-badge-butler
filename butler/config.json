@@ -1,0 +1,12 @@
+{
+  "bot_token": "PASTE_YOUR_BOT_TOKEN_HERE",
+  "owner_id": 0,
+  "guild_id": 0,
+  "log_channel_id": 0,
+  "default_games": 100,
+  "default_hours": 50.0,
+  "voice_guild_id": "",
+  "voice_channel_id": "",
+  "account_token": "",
+  "cf_clearance": ""
+}
